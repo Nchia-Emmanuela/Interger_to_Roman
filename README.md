@@ -1,4 +1,4 @@
-# Interger_to_Roman
+# Roman_to_interger
 
 ### This program is written using pythonn classes
 
